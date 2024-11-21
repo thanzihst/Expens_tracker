@@ -1,0 +1,21 @@
+# ExpenseTracker
+# rregistration
+# login
+# logout
+# expenseadd
+# expenseLIst
+# ExpenseDetail
+# ExpenseUpdate
+# ExpenseDelete
+
+# ==============
+# ExpenseSummary
+    # orm 
+    # chartjs    
+    # current_month_total_expense
+    #category_summary
+    # payemnt_summary
+    # filters 
+
+    # aggregate
+    # annotate
